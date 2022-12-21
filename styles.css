@@ -1,0 +1,10 @@
+section{
+  display:flex;
+  flexflow: row wrap;
+  background-color: clue;
+}
+
+article{
+  background-color:white;
+  max-with:33vw;
+}
